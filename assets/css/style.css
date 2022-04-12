@@ -81,6 +81,9 @@ header{
     font-size: 15px;
     line-height: 146%;
     border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .logo{
     width: 172px;
